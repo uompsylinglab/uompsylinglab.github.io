@@ -1,26 +1,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psycholinguistics Laboratory</title>
-    <link>http://uompsylinglab.github.io/</link>
+    <link>https://uompsylinglab.github.io/</link>
     <description>Recent content on Psycholinguistics Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
-        <atom:link href="http://uompsylinglab.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://uompsylinglab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about | contact</title>
-      <link>http://uompsylinglab.github.io/about/</link>
+      <link>https://uompsylinglab.github.io/about/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://uompsylinglab.github.io/about/</guid>
+      <guid>https://uompsylinglab.github.io/about/</guid>
       <description>The Psycholinguistics Lab is used for several strands of linguistics research at The University of Manchester, from semantic processing studies to sociolinguistic priming and speech perception studies. Research is conducted in the lab by both students and staff alike in the department of English Language and Linguistics. You can find the Psycholinguistics Lab in the Samuel Alexander Building, NG.15 at The University of Manchester. Oxford Road, M13 9PL, Manchester, UK.</description>
     </item><item>
       <title>Posts</title>
-      <link>http://uompsylinglab.github.io/posts/</link>
+      <link>https://uompsylinglab.github.io/posts/</link>
       <pubDate>Thu, 20 Feb 2020 14:33:42 -0400</pubDate>
       
-      <guid>http://uompsylinglab.github.io/posts/</guid>
+      <guid>https://uompsylinglab.github.io/posts/</guid>
       <description></description>
     </item>
   </channel>
