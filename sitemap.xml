@@ -3,34 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uompsylinglab.github.io/equipment/</loc>
+    <loc>http://uompsylinglab.github.io/about/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uompsylinglab.github.io/timetable/</loc>
+    <loc>http://uompsylinglab.github.io/posts/am/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uompsylinglab.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>http://uompsylinglab.github.io/posts/wk/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uompsylinglab.github.io/contact/</loc>
+    <loc>http://uompsylinglab.github.io/posts/mc/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uompsylinglab.github.io/people/</loc>
+    <loc>http://uompsylinglab.github.io/posts/mch/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uompsylinglab.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>http://uompsylinglab.github.io/categories/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uompsylinglab.github.io/</loc>
-    <priority>0</priority>
+    <loc>http://uompsylinglab.github.io/posts/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uompsylinglab.github.io/categories/studies/</loc>
+    <lastmod>2020-02-20T14:33:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uompsylinglab.github.io/people/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uompsylinglab.github.io/timetable/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uompsylinglab.github.io/</loc>
+    <lastmod>2018-04-27T09:46:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uompsylinglab.github.io/tags/</loc>
   </url>
   
 </urlset>

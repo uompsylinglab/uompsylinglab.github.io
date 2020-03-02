@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web - Psycholinguistics Laboratory</title>
+    <link>/categories/web/</link>
+    <description>Recent content in Web on Psycholinguistics Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Feb 2020 14:33:42 -0400</lastBuildDate>
+    
+        <atom:link href="/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Processing speech sounds in speech(-like) perception: an ERP study.</title>
+      <link>/posts/aether-theme/</link>
+      <pubDate>Thu, 20 Feb 2020 14:33:42 -0400</pubDate>
+      
+      <guid>/posts/aether-theme/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

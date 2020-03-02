@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on psycholinguisticslab</title>
-    <link>https://uompsylinglab.github.io/categories/</link>
-    <description>Recent content in Categories on psycholinguisticslab</description>
+    <title>Categories - Psycholinguistics Laboratory</title>
+    <link>http://uompsylinglab.github.io/categories/</link>
+    <description>Recent content in Categories on Psycholinguistics Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 14:33:42 -0400</lastBuildDate>
     
-	<atom:link href="https://uompsylinglab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://uompsylinglab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>studies</title>
+      <link>http://uompsylinglab.github.io/categories/studies/</link>
+      <pubDate>Thu, 20 Feb 2020 14:33:42 -0400</pubDate>
+      
+      <guid>http://uompsylinglab.github.io/categories/studies/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
